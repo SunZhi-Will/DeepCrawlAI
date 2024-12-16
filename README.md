@@ -4,7 +4,7 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/your-username/DeepCrawlAI/blob/main/LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/)
-[![Gemini](https://img.shields.io/badge/Gemini-1.5-flash-blue.svg)](https://github.com/your-username/DeepCrawlAI/blob/main/assets/gemini.png)
+[![Gemini](https://img.shields.io/badge/Gemini-1.5-blue.svg)](https://github.com/your-username/DeepCrawlAI/blob/main/assets/gemini.png)
 
 DeepCrawlAI 是一個結合網頁爬蟲和 AI 分析的智能爬蟲工具，能夠深度爬取網頁內容並使用 Gemini AI 進行智能分析。
 
