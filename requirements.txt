@@ -3,3 +3,6 @@ selenium>=4.15.2
 webdriver-manager>=4.0.1
 google.ai.generativelanguage
 python-dotenv
+beautifulsoup4
+html2text
+cloudscraper
