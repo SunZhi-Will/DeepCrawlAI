@@ -29,10 +29,52 @@ def gemini_response(user_query, web_content):
         generation_config=generation_config,
     )
 
-    chat_session = model.start_chat(
-        history=[{
-            "role": "user",
-            "parts": [{"text": """根據網頁內容，整理出使用者需要的資料以及可能會需要查閱的相關 URL，並以 JSON 格式回傳。
+    # 根據查詢類型使用不同的提示詞
+    if "請根據以上內容" in user_query:
+        # 用於最終分析的提示詞
+        chat_session = model.start_chat(
+            history=[{
+                "role": "user",
+                "parts": [{"text": """請分析內容並提供清晰的總結回應。
+如果是優惠內容，請以以下格式回傳：
+{
+    "cards": [
+        {
+            "cardName": [卡片名稱],
+            "cardImage": 如果圖片URL是相對路徑(例如/banking/images/...)，請在前面加上網站的完整網址,
+            "rewardType": 回饋類型：現金回饋/紅利點數,
+            "domestic": [
+                {
+                    "category": "一般消費",
+                    "rate": "1%"
+                },
+                {
+                    "category": "保費",
+                    "rate": "0.5% 或最高12期分期0利率"
+                }
+            ],
+            "foreign": [
+                {
+                    "category": "日本/韓國地區一般 消費",
+                    "rate": "3%"
+                },
+                {
+                    "category": "其他海外地區一般消費",
+                    "rate": "1%"
+                }
+            ],
+            "other": []
+        },
+    ]
+}"""}]
+            }]
+        )
+    else:
+        # 原有的用於爬蟲過程中的提示詞
+        chat_session = model.start_chat(
+            history=[{
+                "role": "user",
+                "parts": [{"text": """根據網頁內容，整理出使用者需要的資料以及可能會需要查閱的相關 URL，並以 JSON 格式回傳。
 JSON格式範例：
 {
 "content": "完整的使用者需求內容",
@@ -43,10 +85,9 @@ JSON格式範例：
 }
 ]
 }"""}]
-        }]
-    )
+            }]
+        )
 
-    # 組合使用者查詢和網頁內容
     prompt = f"""
 使用者需求：
 {user_query}
