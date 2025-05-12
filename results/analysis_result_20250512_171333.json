@@ -1,0 +1,295 @@
+{
+  "cards": [
+    {
+      "cardName": "富邦J卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/omiyage%E5%8B%95%E5%9C%96.gif",
+      "cardLink": "https://www.fubon.com/banking/personal/credit_card/all_card/omiyage/omiyage.htm",
+      "benefits": [
+        {
+          "category": "旅遊",
+          "description": "日韓泰旅遊最高8%",
+          "rate": "8%"
+        },
+        {
+          "category": "旅遊",
+          "description": "買機票訂飯店",
+          "rate": "5%"
+        }
+      ]
+    },
+    {
+      "cardName": "富邦鑽保卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/insurance.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/insurance/insurance.htm",
+      "benefits": [
+        {
+          "category": "保費",
+          "description": "保費最高享12期0利率",
+          "rate": "12期0利率"
+        },
+        {
+          "category": "一般消費",
+          "description": "一般消費享0.7%回饋",
+          "rate": "0.7%"
+        }
+      ]
+    },
+    {
+      "cardName": "富邦富利生活系列卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "紅利回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/Lifestyle.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/lifestyle/lifestyle.htm",
+      "benefits": [
+        {
+          "category": "8大生活消費",
+          "description": "8大生活消費享5倍紅利",
+          "rate": "5倍"
+        }
+      ]
+    },
+    {
+      "cardName": "富邦Costco聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/costco.jpg",
+      "cardLink": "https://www.fubon.com/banking/personal/credit_card/all_card/costco/costco.htm",
+      "benefits": [
+        {
+          "category": "Costco消費",
+          "description": "Costco消費享2%",
+          "rate": "2%"
+        },
+        {
+          "category": "新戶刷卡禮",
+          "description": "新戶刷卡禮500元好多金",
+          "rate": "500元"
+        }
+      ]
+    },
+    {
+      "cardName": "台灣大哥大Open Possible聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/OpenPossible_cardface.jpg",
+      "cardLink": "https://www.fubon.com/banking/personal/credit_card/all_card/openpossible/openpossible.htm",
+      "benefits": [
+        {
+          "category": "台灣大電信費/兩大超商/行車加油",
+          "description": "台灣大電信費/兩大超商/行車加油 最高3.5%",
+          "rate": "3.5%"
+        }
+      ]
+    },
+    {
+      "cardName": "momo卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/momo_1.jpg",
+      "cardLink": "https://www.fubon.com/banking/personal/credit_card/all_card/momo/momo.htm",
+      "benefits": [
+        {
+          "category": "momo通路",
+          "description": "momo通路最高3%",
+          "rate": "3%"
+        },
+        {
+          "category": "海外",
+          "description": "海外加碼回饋最高10%",
+          "rate": "10%"
+        }
+      ]
+    },
+    {
+      "cardName": "富邦悍將悠遊聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "紅利回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/fubonguardians_T.png",
+      "cardLink": "/banking/personal/credit_card/all_card/fubonguardians/fubonguardians.htm",
+      "benefits": [
+        {
+          "category": "富邦悍將主場",
+          "description": "購買富邦悍將主場內野票5折起、商品8折起",
+          "rate": "5折起/8折起"
+        }
+      ]
+    },
+    {
+      "cardName": "富邦世界卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達36萬免年費",
+      "rewardType": "紅利回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/World Card.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/world/world.htm",
+      "benefits": [
+        {
+          "category": "機場接送",
+          "description": "2次免費機場接/送",
+          "rate": "2次免費"
+        },
+        {
+          "category": "高爾夫球",
+          "description": "三大高球場享擊球優惠",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "cardName": "富邦無限卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達36萬免年費",
+      "rewardType": "紅利回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/Infinite Card.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/infinite/infinite.htm",
+      "benefits": [
+        {
+          "category": "機場接送",
+          "description": "2次免費機場接/送",
+          "rate": "2次免費"
+        },
+        {
+          "category": "高爾夫球",
+          "description": "三大高球場享擊球優惠",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "cardName": "富邦鈦金卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "紅利回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/%E9%88%A6%E9%87%91%E5%8D%A1_MT_1013x638.png",
+      "cardLink": "/banking/personal/credit_card/all_card/tiatium/tiatium.htm",
+      "benefits": [
+        {
+          "category": "週末消費",
+          "description": "週末消費享3倍紅利回饋",
+          "rate": "3倍"
+        }
+      ]
+    },
+    {
+      "cardName": "台茂聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "折扣優惠",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/taimall.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/taimall/taimall.htm",
+      "benefits": [
+        {
+          "category": "台茂購物中心",
+          "description": "館內免費停車，享購物、美食等折扣優惠",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "cardName": "采盟聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "現金回饋",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/dutyfree2021.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/dutyfree/dutyfree.htm",
+      "benefits": [
+        {
+          "category": "采盟免稅店",
+          "description": "免稅商品9折優惠",
+          "rate": "9折"
+        },
+        {
+          "category": "采盟免稅店",
+          "description": "生日享85折優惠",
+          "rate": "85折"
+        }
+      ]
+    },
+    {
+      "cardName": "福華聯名卡",
+      "issuer": "富邦銀行",
+      "cardType": "聯名卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "折扣優惠",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/howardhotel.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/howardhotel/howardhotel.htm",
+      "benefits": [
+        {
+          "category": "福華飯店",
+          "description": "住宿4折、餐飲85折起起、消費滿額送住宿驚喜憑證",
+          "rate": "4折/85折起"
+        }
+      ]
+    },
+    {
+      "cardName": "Angel天使公益認同卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "公益捐款",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/angelcard_2021cardface.jpg",
+      "cardLink": "/banking/personal/credit_card/all_card/angel/angel.htm",
+      "benefits": [
+        {
+          "category": "公益",
+          "description": "消費回饋捐予國軍基金會",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "cardName": "法鼓山自在卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "公益捐款",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/ddmcard_2021cardface.png",
+      "cardLink": "/banking/personal/credit_card/all_card/ddm/ddm.htm",
+      "benefits": [
+        {
+          "category": "公益",
+          "description": "消費回饋捐做公益活動基金",
+          "rate": null
+        }
+      ]
+    },
+    {
+      "cardName": "台北市政府認同卡",
+      "issuer": "富邦銀行",
+      "cardType": "一般卡",
+      "annualFee": "首年免年費，次年消費正附卡合併達6萬或12次免年費，114/12/31前，僅申請電子帳單、綁定銀行LINE官方帳號好友或本行存戶自扣亦可享免年費優惠",
+      "rewardType": "公益捐款",
+      "imageUrl": "https://www.fubon.com/banking/images/personal/credit_card/TW/taipeicitycard_2021cardface.png",
+      "cardLink": "/banking/personal/credit_card/all_card/taipeicity/taipeicity.htm",
+      "benefits": [
+        {
+          "category": "公益",
+          "description": "消費回饋捐做弱勢學童基金",
+          "rate": null
+        }
+      ]
+    }
+  ]
+}
